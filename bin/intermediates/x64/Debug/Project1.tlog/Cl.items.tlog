@@ -1,0 +1,13 @@
+E:\VS2022project\OpenGL\dependencies\GLAD\src\glad.c;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\glad.obj
+E:\VS2022project\OpenGL\dependencies\STB_IMAGE\src\stb_image.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\stb_image.obj
+E:\VS2022project\OpenGL\Project1\src\Material.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\Material.obj
+E:\VS2022project\OpenGL\Project1\src\Light.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\Light.obj
+E:\VS2022project\OpenGL\Project1\src\Camera.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\Camera.obj
+E:\VS2022project\OpenGL\Project1\src\glerror.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\glerror.obj
+E:\VS2022project\OpenGL\Project1\src\main.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\main.obj
+E:\VS2022project\OpenGL\Project1\src\Mesh.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\Mesh.obj
+E:\VS2022project\OpenGL\Project1\src\Model.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\Model.obj
+E:\VS2022project\OpenGL\Project1\src\shader.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\shader.obj
+E:\VS2022project\OpenGL\Project1\src\Buffer.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\Buffer.obj
+E:\VS2022project\OpenGL\Project1\src\Texture.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\Texture.obj
+E:\VS2022project\OpenGL\Project1\src\VertexArray.cpp;E:\VS2022project\OpenGL\bin\intermediates\x64\Debug\VertexArray.obj
