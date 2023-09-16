@@ -1,1 +1,1 @@
-# OpenGL
+# My project for learning OpenGL
